@@ -8,14 +8,3 @@ D:\VS_Practice\EAR\EAR\obj\Release\EAR.csproj.GenerateResource.Cache
 D:\VS_Practice\EAR\EAR\obj\Release\EAR.exe
 D:\VS_Practice\EAR\EAR\obj\Release\EAR.pdb
 D:\VS_Practice\EAR\EAR\obj\Release\EAR.csprojResolveAssemblyReference.cache
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\bin\Release\EAR.exe.config
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\bin\Release\EAR.exe
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\bin\Release\EAR.pdb
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.csprojAssemblyReference.cache
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.Form1.resources
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.Form_aboutUs_english.resources
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.Properties.Resources.resources
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.csproj.GenerateResource.cache
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.csproj.CoreCompileInputs.cache
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.exe
-D:\Users\LENOVO\Documents\GitHub\EAR\EAR\EAR\obj\Release\EAR.pdb
